@@ -17,9 +17,9 @@ body {
 
 #image-container {
     max-width: 100%;
-    height: auto;
+    height: 35px;
     border-radius: 10px;
-    margin-top: 20px;
+    margin-top: -50px;
 }
  
 #question {
