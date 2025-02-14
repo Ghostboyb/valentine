@@ -15,8 +15,13 @@ body {
     height: 100vh; /* Make the container full viewport height */
 }
 
+#image-container {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 20px;
+}
  
-
 #question {
     font-family: 'Sacramento', cursive; /* Apply Sacramento font to the question */
     font-size: 52px; /* Set font size for the question */
